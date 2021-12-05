@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DiscountsAddsManagement", "DiscountsAddsManagement", "{6E7E7B93-FCF5-4740-AF95-FBDB0D4DEA99}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DAM.Application", "DAM.Application", "{0C3D5D0F-92F6-469B-A173-26E2F619DB45}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DAM.Domain", "DAM.Domain", "{15EAA09A-F5EF-415B-84E4-72AB593A6F24}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DAM.Infrastructure", "DAM.Infrastructure", "{A040F2FE-DE93-41E1-93B6-8B536BE5ACAA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiscountsAddsManagement.Domain", "..\..\..\..\Projects\IniTakhfif\IniTakhfif\DiscountManagement.Domain\DiscountsAddsManagement.Domain.csproj", "{78395CD6-0197-4250-8958-ECC630FF57DE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiscountsAddsManagement.Configuration", "..\..\..\..\Projects\IniTakhfif\IniTakhfif\DiscountManagement.Configuration\DiscountsAddsManagement.Configuration.csproj", "{4B11F207-A32F-4700-AFBD-FCE348B5E79C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiscountsAddsManagement.Infrastructure.EFCore", "..\..\..\..\Projects\IniTakhfif\IniTakhfif\DiscountManagement.Infrastructure.EFCore\DiscountsAddsManagement.Infrastructure.EFCore.csproj", "{D03B4253-673B-4E2D-A20E-F9519A9C6642}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiscountsAddsManagement.Application", "..\..\..\..\Projects\IniTakhfif\IniTakhfif\DiscountManagement.Application\DiscountsAddsManagement.Application.csproj", "{AADACEF5-96DF-411A-BBF0-6FDD9B5F5CB9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiscountsAddsManagement.Application.Contracts", "..\..\..\..\Projects\IniTakhfif\IniTakhfif\DiscountManagement.Application.Contracts\DiscountsAddsManagement.Application.Contracts.csproj", "{B5CF7A38-FBB9-4622-B95C-EB3F153BC302}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78395CD6-0197-4250-8958-ECC630FF57DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78395CD6-0197-4250-8958-ECC630FF57DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78395CD6-0197-4250-8958-ECC630FF57DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78395CD6-0197-4250-8958-ECC630FF57DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B11F207-A32F-4700-AFBD-FCE348B5E79C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B11F207-A32F-4700-AFBD-FCE348B5E79C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B11F207-A32F-4700-AFBD-FCE348B5E79C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B11F207-A32F-4700-AFBD-FCE348B5E79C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D03B4253-673B-4E2D-A20E-F9519A9C6642}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D03B4253-673B-4E2D-A20E-F9519A9C6642}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D03B4253-673B-4E2D-A20E-F9519A9C6642}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D03B4253-673B-4E2D-A20E-F9519A9C6642}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AADACEF5-96DF-411A-BBF0-6FDD9B5F5CB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AADACEF5-96DF-411A-BBF0-6FDD9B5F5CB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AADACEF5-96DF-411A-BBF0-6FDD9B5F5CB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AADACEF5-96DF-411A-BBF0-6FDD9B5F5CB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5CF7A38-FBB9-4622-B95C-EB3F153BC302}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5CF7A38-FBB9-4622-B95C-EB3F153BC302}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5CF7A38-FBB9-4622-B95C-EB3F153BC302}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5CF7A38-FBB9-4622-B95C-EB3F153BC302}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0C3D5D0F-92F6-469B-A173-26E2F619DB45} = {6E7E7B93-FCF5-4740-AF95-FBDB0D4DEA99}
+		{15EAA09A-F5EF-415B-84E4-72AB593A6F24} = {6E7E7B93-FCF5-4740-AF95-FBDB0D4DEA99}
+		{A040F2FE-DE93-41E1-93B6-8B536BE5ACAA} = {6E7E7B93-FCF5-4740-AF95-FBDB0D4DEA99}
+		{78395CD6-0197-4250-8958-ECC630FF57DE} = {15EAA09A-F5EF-415B-84E4-72AB593A6F24}
+		{4B11F207-A32F-4700-AFBD-FCE348B5E79C} = {A040F2FE-DE93-41E1-93B6-8B536BE5ACAA}
+		{D03B4253-673B-4E2D-A20E-F9519A9C6642} = {A040F2FE-DE93-41E1-93B6-8B536BE5ACAA}
+		{AADACEF5-96DF-411A-BBF0-6FDD9B5F5CB9} = {0C3D5D0F-92F6-469B-A173-26E2F619DB45}
+		{B5CF7A38-FBB9-4622-B95C-EB3F153BC302} = {0C3D5D0F-92F6-469B-A173-26E2F619DB45}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {522FAF68-53A7-467B-BA8A-007B6ED53FE1}
+	EndGlobalSection
+EndGlobal
