@@ -1,0 +1,4 @@
+C:\Projects\IniTakhfif\IniTakhfif\DiscountManagement.Application.Contracts\obj\Debug\netcoreapp3.1\DiscountManagement.Application.Contracts.csprojAssemblyReference.cache
+C:\Projects\IniTakhfif\IniTakhfif\DiscountManagement.Application.Contracts\obj\Debug\netcoreapp3.1\DiscountManagement.Application.Contracts.AssemblyInfoInputs.cache
+C:\Projects\IniTakhfif\IniTakhfif\DiscountManagement.Application.Contracts\obj\Debug\netcoreapp3.1\DiscountManagement.Application.Contracts.AssemblyInfo.cs
+C:\Projects\IniTakhfif\IniTakhfif\DiscountManagement.Application.Contracts\obj\Debug\netcoreapp3.1\DiscountManagement.Application.Contracts.csproj.CoreCompileInputs.cache

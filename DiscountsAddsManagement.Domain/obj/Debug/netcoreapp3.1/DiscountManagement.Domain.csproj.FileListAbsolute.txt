@@ -1,0 +1,12 @@
+C:\Projects\IniTakhfif\IniTakhfif\DiscountManagement.Domain\bin\Debug\netcoreapp3.1\0_Framework.dll
+C:\Projects\IniTakhfif\IniTakhfif\DiscountManagement.Domain\obj\Debug\netcoreapp3.1\DiscountManagement.Domain.csprojAssemblyReference.cache
+C:\Projects\IniTakhfif\IniTakhfif\DiscountManagement.Domain\obj\Debug\netcoreapp3.1\DiscountManagement.Domain.AssemblyInfoInputs.cache
+C:\Projects\IniTakhfif\IniTakhfif\DiscountManagement.Domain\obj\Debug\netcoreapp3.1\DiscountManagement.Domain.AssemblyInfo.cs
+C:\Projects\IniTakhfif\IniTakhfif\DiscountManagement.Domain\obj\Debug\netcoreapp3.1\DiscountManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\IniTakhfif\IniTakhfif\DiscountManagement.Domain\bin\Debug\netcoreapp3.1\DiscountManagement.Domain.deps.json
+C:\Projects\IniTakhfif\IniTakhfif\DiscountManagement.Domain\bin\Debug\netcoreapp3.1\DiscountManagement.Domain.dll
+C:\Projects\IniTakhfif\IniTakhfif\DiscountManagement.Domain\bin\Debug\netcoreapp3.1\DiscountManagement.Domain.pdb
+C:\Projects\IniTakhfif\IniTakhfif\DiscountManagement.Domain\bin\Debug\netcoreapp3.1\0_Framework.pdb
+C:\Projects\IniTakhfif\IniTakhfif\DiscountManagement.Domain\obj\Debug\netcoreapp3.1\DiscountManagement.Domain.csproj.CopyComplete
+C:\Projects\IniTakhfif\IniTakhfif\DiscountManagement.Domain\obj\Debug\netcoreapp3.1\DiscountManagement.Domain.dll
+C:\Projects\IniTakhfif\IniTakhfif\DiscountManagement.Domain\obj\Debug\netcoreapp3.1\DiscountManagement.Domain.pdb

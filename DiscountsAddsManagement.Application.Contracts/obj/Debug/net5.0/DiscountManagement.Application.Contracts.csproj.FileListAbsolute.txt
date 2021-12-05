@@ -1,0 +1,15 @@
+C:\Projects\IniTakhfif\IniTakhfif\DiscountManagement.Application.Contracts\obj\Debug\net5.0\DiscountManagement.Application.Contracts.csprojAssemblyReference.cache
+C:\Projects\IniTakhfif\IniTakhfif\DiscountManagement.Application.Contracts\obj\Debug\net5.0\DiscountManagement.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\IniTakhfif\IniTakhfif\DiscountManagement.Application.Contracts\obj\Debug\net5.0\DiscountManagement.Application.Contracts.AssemblyInfoInputs.cache
+C:\Projects\IniTakhfif\IniTakhfif\DiscountManagement.Application.Contracts\obj\Debug\net5.0\DiscountManagement.Application.Contracts.AssemblyInfo.cs
+C:\Projects\IniTakhfif\IniTakhfif\DiscountManagement.Application.Contracts\obj\Debug\net5.0\DiscountManagement.Application.Contracts.csproj.CoreCompileInputs.cache
+C:\Projects\IniTakhfif\IniTakhfif\DiscountManagement.Application.Contracts\bin\Debug\net5.0\DiscountManagement.Application.Contracts.deps.json
+C:\Projects\IniTakhfif\IniTakhfif\DiscountManagement.Application.Contracts\bin\Debug\net5.0\DiscountManagement.Application.Contracts.dll
+C:\Projects\IniTakhfif\IniTakhfif\DiscountManagement.Application.Contracts\bin\Debug\net5.0\ref\DiscountManagement.Application.Contracts.dll
+C:\Projects\IniTakhfif\IniTakhfif\DiscountManagement.Application.Contracts\bin\Debug\net5.0\DiscountManagement.Application.Contracts.pdb
+C:\Projects\IniTakhfif\IniTakhfif\DiscountManagement.Application.Contracts\bin\Debug\net5.0\0_Framework.dll
+C:\Projects\IniTakhfif\IniTakhfif\DiscountManagement.Application.Contracts\bin\Debug\net5.0\0_Framework.pdb
+C:\Projects\IniTakhfif\IniTakhfif\DiscountManagement.Application.Contracts\obj\Debug\net5.0\DiscountManagement.Application.Contracts.csproj.CopyComplete
+C:\Projects\IniTakhfif\IniTakhfif\DiscountManagement.Application.Contracts\obj\Debug\net5.0\DiscountManagement.Application.Contracts.dll
+C:\Projects\IniTakhfif\IniTakhfif\DiscountManagement.Application.Contracts\obj\Debug\net5.0\ref\DiscountManagement.Application.Contracts.dll
+C:\Projects\IniTakhfif\IniTakhfif\DiscountManagement.Application.Contracts\obj\Debug\net5.0\DiscountManagement.Application.Contracts.pdb
